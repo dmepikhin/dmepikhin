@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there! 👋 I'm Dmitrii
 
-<!--
-**dm-epikhin/dm-epikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **QA Automation Engineer** with a strong background in Technical Support (4+ years). Currently mastering Python and modern testing frameworks.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Currently working on
+- Automating UI tests using **Selene & Pytest**
+- Building my first test framework
+- Learning CI/CD pipelines
+
+#### 📫 Contact me
+- **Email:** epihin.dm@gmail.com 

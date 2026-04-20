@@ -1,18 +1,32 @@
 ### Hi there! 👋 I'm Dmitrii
 
-I'm an aspiring **QA Automation Engineer** with a strong background in Technical Support (4+ years). Currently mastering Python and modern testing frameworks.
+I'm an **AI Automation Engineer** specializing in Agentic AI, RAG systems, and intelligent workflows. I leverage "Vibe Coding" and modern AI frameworks to build autonomous agents, voice assistants, and enterprise-grade data pipelines that solve real-world business problems.
 
-#### 🛠 Tech Stack
+#### 🛠 Tech Stack & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🔭 Currently working on
-- Automating UI tests using **Selene & Pytest**
-- Building my first test framework
-- Learning CI/CD pipelines
+- 🤖 **AI & Agents:** MCP (Model Context Protocol), Pydantic AI, OpenAI AgentKit, CrewAI, AutoGen, Flowise.
+- 🗣️ **Voice AI:** ElevenLabs, Twilio, LiveKit, Vapi (Real-Time AI Voice Assistants).
+- 🧠 **Data & RAG:** RAG Pipelines, Vector DBs (Supabase, Pinecone), Embeddings, SQL, Postgres.
+- ⚙️ **Automation:** Advanced n8n (Webhooks, Custom Code Nodes), Multi-Agent Orchestration, API integrations.
+- 💻 **Dev & Local AI:** Cursor, Local LLMs (Ollama, DeepSeek), Docker, GitHub, Next.js / React frontends.
 
-#### 📫 Contact me
-- **Email:** epihin.dm@gmail.com 
+#### 🚀 Featured Projects
+Here are some of the complex AI systems I've built:
+
+* 📈 **Autonomous Financial Agent:** An AI agent that monitors MarketStack prices and automatically rebalances portfolios in Google Sheets using OpenAI logic.
+* 📞 **RAG-Powered Voice Assistant:** A real-time conversational agent built with ElevenLabs and Twilio, equipped with deep domain expertise via Supabase RAG to handle customer calls and trigger business actions.
+* 🎯 **Multi-Agent GTM System:** A Go-To-Market automation system utilizing the Model Context Protocol (MCP) and FireCrawl to autonomously scrape leads, enrich data, and schedule meetings.
+
+#### 🔭 Currently focusing on
+- Expanding my knowledge in AI Security (preventing prompt injections & jailbreaks).
+- Building custom MCP servers using Python and n8n to control external APIs.
+- Exploring Generative AI integration (ComfyUI, Flux) into automated workflows.
+
+#### 📫 Let's connect
+- **Email:** epihin.dm@gmail.com

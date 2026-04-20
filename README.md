@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Dmitrii
 
-I'm an **AI Automation Engineer** specializing in Agentic AI, RAG systems, and intelligent workflows. I leverage "Vibe Coding" and modern AI frameworks to build autonomous agents, voice assistants, and enterprise-grade data pipelines that solve real-world business problems.
+I have a strong background in Technical Support (4+ years) and I am currently transitioning into **AI Automation Engineering**. Right now, I am completely focused on mastering Agentic AI, RAG systems, and intelligent workflows through intensive bootcamps. I'm actively learning how to leverage "Vibe Coding" and modern AI frameworks to solve real-world business problems.
 
-#### 🛠 Tech Stack & Core Skills
+#### 🛠 Technologies & Tools I'm Mastering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -10,23 +10,18 @@ I'm an **AI Automation Engineer** specializing in Agentic AI, RAG systems, and i
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🤖 **AI & Agents:** MCP (Model Context Protocol), Pydantic AI, OpenAI AgentKit, CrewAI, AutoGen, Flowise.
-- 🗣️ **Voice AI:** ElevenLabs, Twilio, LiveKit, Vapi (Real-Time AI Voice Assistants).
-- 🧠 **Data & RAG:** RAG Pipelines, Vector DBs (Supabase, Pinecone), Embeddings, SQL, Postgres.
-- ⚙️ **Automation:** Advanced n8n (Webhooks, Custom Code Nodes), Multi-Agent Orchestration, API integrations.
-- 💻 **Dev & Local AI:** Cursor, Local LLMs (Ollama, DeepSeek), Docker, GitHub, Next.js / React frontends.
+- 🤖 **AI & Agents:** Learning MCP (Model Context Protocol), Pydantic AI, OpenAI AgentKit, and Flowise.
+- 🗣️ **Voice AI:** Exploring ElevenLabs, Twilio, and Vapi to build Real-Time AI Voice Assistants.
+- 🧠 **Data & RAG:** Studying RAG Pipelines, Vector DBs (Supabase, Pinecone), Embeddings, and SQL.
+- ⚙️ **Automation:** Deep diving into advanced n8n (Webhooks, Custom Code Nodes), and Multi-Agent Systems.
+- 💻 **Dev & Local AI:** Getting comfortable with Cursor, Local LLMs (Ollama), Docker, and GitHub.
 
-#### 🚀 Featured Projects
-Here are some of the complex AI systems I've built:
+#### 🚀 What I'm Currently Building
+As part of my ongoing training, I am actively working on deploying the following complex AI systems:
 
-* 📈 **Autonomous Financial Agent:** An AI agent that monitors MarketStack prices and automatically rebalances portfolios in Google Sheets using OpenAI logic.
-* 📞 **RAG-Powered Voice Assistant:** A real-time conversational agent built with ElevenLabs and Twilio, equipped with deep domain expertise via Supabase RAG to handle customer calls and trigger business actions.
-* 🎯 **Multi-Agent GTM System:** A Go-To-Market automation system utilizing the Model Context Protocol (MCP) and FireCrawl to autonomously scrape leads, enrich data, and schedule meetings.
-
-#### 🔭 Currently focusing on
-- Expanding my knowledge in AI Security (preventing prompt injections & jailbreaks).
-- Building custom MCP servers using Python and n8n to control external APIs.
-- Exploring Generative AI integration (ComfyUI, Flux) into automated workflows.
+* 📈 **Autonomous Financial Agent:** Building an AI agent to monitor MarketStack prices and automatically rebalance portfolios in Google Sheets using OpenAI logic.
+* 📞 **RAG-Powered Voice Assistant:** Developing a conversational agent with ElevenLabs and Twilio, using Supabase RAG to handle customer calls and trigger actions.
+* 🎯 **Multi-Agent GTM System:** Constructing a Go-To-Market automation system utilizing MCP and FireCrawl to autonomously scrape leads and schedule meetings.
 
 #### 📫 Let's connect
 - **Email:** epihin.dm@gmail.com
